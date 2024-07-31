@@ -50,8 +50,8 @@ The Task Manager Application is a modern web application built with React, Node.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
-   cd task-manager
+   git clone https://github.com/yourusername/todoApp.git
+   cd todoApp
 2. **Install Frontend Dependencies**
     Navigate to the frontend directory and install dependencies:
     cd frontend
